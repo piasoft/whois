@@ -1,0 +1,1 @@
+<?php if(!isset($admin->id)) {   exit('<script>window.location.href="index.php";</script>');  } ?>
